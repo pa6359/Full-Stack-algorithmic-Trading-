@@ -2,7 +2,7 @@
 import os
 import streamlit as st
 import pandas as pd
-from Streamlit_akash_plot import StreamlitStaticalDataPloter
+from Streamlit_plot import StreamlitStaticalDataPloter
 
 
 # Function to concatenate multiple CSV files
